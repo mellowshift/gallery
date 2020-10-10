@@ -1,52 +1,152 @@
 {
-  "Chillin": [
+  "chillin": [
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-04-18 at 23.03.29.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-04-18 at 23.03.29.min.png",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/chillin/CCCE50F0-B9D9-4BB1-AAC5-7755402DAC43.jpeg",
+      "compressed_path": "./photos/chillin/CCCE50F0-B9D9-4BB1-AAC5-7755402DAC43.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-04-18 at 23.03.29.placeholder.png"
+      "placeholder_path": "./photos/chillin/CCCE50F0-B9D9-4BB1-AAC5-7755402DAC43.placeholder.jpeg"
     },
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-04-12 at 21.36.32.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.36.32.min.png",
+      "width": 3840,
+      "height": 2160,
+      "path": "./photos/chillin/IMG_20160806_223903.jpg",
+      "compressed_path": "./photos/chillin/IMG_20160806_223903.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.36.32.placeholder.png"
+      "placeholder_path": "./photos/chillin/IMG_20160806_223903.placeholder.jpg"
     },
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.42.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.42.min.png",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/chillin/20181110_190612.jpg",
+      "compressed_path": "./photos/chillin/20181110_190612.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.42.placeholder.png"
+      "placeholder_path": "./photos/chillin/20181110_190612.placeholder.jpg"
     },
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-05-09 at 20.58.59.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-05-09 at 20.58.59.min.png",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/chillin/20180619_191828.jpg",
+      "compressed_path": "./photos/chillin/20180619_191828.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-05-09 at 20.58.59.placeholder.png"
+      "placeholder_path": "./photos/chillin/20180619_191828.placeholder.jpg"
     },
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.00.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.00.min.png",
+      "width": 2048,
+      "height": 1152,
+      "path": "./photos/chillin/8D5B789D-ADDB-4521-94BD-1C5512EE11E8.jpeg",
+      "compressed_path": "./photos/chillin/8D5B789D-ADDB-4521-94BD-1C5512EE11E8.min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-04-12 at 21.24.00.placeholder.png"
+      "placeholder_path": "./photos/chillin/8D5B789D-ADDB-4521-94BD-1C5512EE11E8.placeholder.jpeg"
     },
     {
-      "width": 2560,
-      "height": 1596,
-      "path": "./photos/Chillin/Screenshot 2020-04-18 at 21.53.44.png",
-      "compressed_path": "./photos/Chillin/Screenshot 2020-04-18 at 21.53.44.min.png",
+      "width": 4048,
+      "height": 3036,
+      "path": "./photos/chillin/IMG_20181208_220759_1.jpg",
+      "compressed_path": "./photos/chillin/IMG_20181208_220759_1.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chillin/Screenshot 2020-04-18 at 21.53.44.placeholder.png"
+      "placeholder_path": "./photos/chillin/IMG_20181208_220759_1.placeholder.jpg"
+    }
+  ],
+  "old school very cool": [
+    {
+      "width": 720,
+      "height": 960,
+      "path": "./photos/old school very cool/524BD742-A187-4E5F-9298-02A83895CDFA_1_105_c.jpeg",
+      "compressed_path": "./photos/old school very cool/524BD742-A187-4E5F-9298-02A83895CDFA_1_105_c.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/old school very cool/524BD742-A187-4E5F-9298-02A83895CDFA_1_105_c.placeholder.jpeg"
+    },
+    {
+      "width": 1136,
+      "height": 640,
+      "path": "./photos/old school very cool/IMG-20160321-WA0005.jpg",
+      "compressed_path": "./photos/old school very cool/IMG-20160321-WA0005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/old school very cool/IMG-20160321-WA0005.placeholder.jpg"
+    },
+    {
+      "width": 608,
+      "height": 793,
+      "path": "./photos/old school very cool/received_371139503759441.jpeg",
+      "compressed_path": "./photos/old school very cool/received_371139503759441.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/old school very cool/received_371139503759441.placeholder.jpeg"
+    },
+    {
+      "width": 920,
+      "height": 517,
+      "path": "./photos/old school very cool/received_449338202545517.jpeg",
+      "compressed_path": "./photos/old school very cool/received_449338202545517.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/old school very cool/received_449338202545517.placeholder.jpeg"
+    }
+  ],
+  "travellin": [
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/travellin/IMG_20170405_140915.jpg",
+      "compressed_path": "./photos/travellin/IMG_20170405_140915.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/IMG_20170405_140915.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/travellin/20180705_162848.jpg",
+      "compressed_path": "./photos/travellin/20180705_162848.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/20180705_162848.placeholder.jpg"
+    },
+    {
+      "width": 3036,
+      "height": 4048,
+      "path": "./photos/travellin/IMG_20190720_200814.jpg",
+      "compressed_path": "./photos/travellin/IMG_20190720_200814.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/IMG_20190720_200814.placeholder.jpg"
+    },
+    {
+      "width": 4048,
+      "height": 3036,
+      "path": "./photos/travellin/IMG_20190710_230054.jpg",
+      "compressed_path": "./photos/travellin/IMG_20190710_230054.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/IMG_20190710_230054.placeholder.jpg"
+    },
+    {
+      "width": 4048,
+      "height": 3036,
+      "path": "./photos/travellin/IMG_20190706_230018.jpg",
+      "compressed_path": "./photos/travellin/IMG_20190706_230018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/IMG_20190706_230018.placeholder.jpg"
+    },
+    {
+      "width": 4048,
+      "height": 3036,
+      "path": "./photos/travellin/IMG_20190709_161441.jpg",
+      "compressed_path": "./photos/travellin/IMG_20190709_161441.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/IMG_20190709_161441.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/travellin/879EA3FA-09E9-492D-B21E-C00E6CAB47CF.jpeg",
+      "compressed_path": "./photos/travellin/879EA3FA-09E9-492D-B21E-C00E6CAB47CF.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/879EA3FA-09E9-492D-B21E-C00E6CAB47CF.placeholder.jpeg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/travellin/20190712_140226.jpg",
+      "compressed_path": "./photos/travellin/20190712_140226.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/travellin/20190712_140226.placeholder.jpg"
     }
   ]
 }
