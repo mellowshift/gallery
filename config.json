@@ -27,10 +27,26 @@
     {
       "width": 4032,
       "height": 3024,
+      "path": "./photos/chillin/IMG_20200101_001501.jpg",
+      "compressed_path": "./photos/chillin/IMG_20200101_001501.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/chillin/IMG_20200101_001501.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
       "path": "./photos/chillin/20180619_191828.jpg",
       "compressed_path": "./photos/chillin/20180619_191828.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/chillin/20180619_191828.placeholder.jpg"
+    },
+    {
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/chillin/IMG_20200101_001653.jpg",
+      "compressed_path": "./photos/chillin/IMG_20200101_001653.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/chillin/IMG_20200101_001653.placeholder.jpg"
     },
     {
       "width": 2048,
